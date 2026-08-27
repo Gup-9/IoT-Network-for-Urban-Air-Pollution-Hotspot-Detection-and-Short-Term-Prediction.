@@ -10,4 +10,4 @@ This project aims to develop a low-cost distributed air-quality monitoring netwo
 4.Transmit sensor data over long distances using LoRa\
 5.Create a real-time pollution hotspot map\
 6.Analyze historical pollution patterns\
-7.Predict potential pollution hotspots using machine learning\
+7.Predict potential pollution hotspots using machine learning
